@@ -1,0 +1,23 @@
+[{
+        "year": "2023",
+        "month": "march",
+        "description": "march party",
+        "date": "21-3-2023   21:00",
+        "place": "κεντρικη πλατεια"
+    },
+    {
+        "year": "2023",
+        "month": "january",
+        "description": "january party",
+        "date": "21-3-2023   22:00",
+        "place": "κεντρικη πλατεια"
+
+    },
+    {
+        "year": "2023",
+        "month": "march",
+        "description": "march party",
+        "date": "21-3-2023   22:00",
+        "place": "plazza"
+    }
+]
