@@ -4,7 +4,7 @@
         "description": "march party",
         "date": "21-3-2023   21:00",
         "place": "κεντρικη πλατεια",
-        "day":21
+        "day":"21"
     },
     {
         "year": "2023",
@@ -12,7 +12,7 @@
         "description": "january party",
         "date": "21-3-2023   22:00",
         "place": "κεντρικη πλατεια",
-        "day":21
+        "day":"21"
 
     },
     {
@@ -21,7 +21,7 @@
         "description": "march party",
         "date": "21-3-2023   22:00",
         "place": "plazza",
-        "day":10
+        "day":"10"
     },
     {
         "year": "2023",
@@ -29,6 +29,6 @@
         "description": "march party",
         "date": "21-3-2023   2:00",
         "place": "plazza",
-        "day":2
+        "day":"2"
     }
 ]
