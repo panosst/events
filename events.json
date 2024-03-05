@@ -2,9 +2,20 @@
         "year": "2023",
         "month": "march",
         "description": "march party",
-        "date": "21-3-2023   21:00",
+        "date": "21-3-2023   2:00",
         "place": "κεντρικη πλατεια",
-        "day":"21"
+        "day":"21",
+        "time":"2.00"
+    },
+    {
+        "year": "2023",
+        "month": "march",
+        "description": "march party",
+        "date": "2-3-2023   22:00",
+        "place": "plazza",
+        "day":"2",
+        "time":"22.00"
+        
     },
     {
         "year": "2023",
@@ -14,21 +25,25 @@
         "place": "κεντρικη πλατεια",
         "day":"21"
 
+
     },
     {
         "year": "2023",
         "month": "march",
         "description": "march party",
-        "date": "21-3-2023   22:00",
+        "date": "10-3-2023   22:00",
         "place": "plazza",
-        "day":"10"
+        "day":"10",
+        "time":"2.00"
     },
     {
         "year": "2023",
         "month": "march",
         "description": "march party",
-        "date": "21-3-2023   2:00",
+        "date": "2-3-2023   2:00",
         "place": "plazza",
-        "day":"2"
+        "day":"2",
+        "time":"2.00"
+        
     }
 ]
